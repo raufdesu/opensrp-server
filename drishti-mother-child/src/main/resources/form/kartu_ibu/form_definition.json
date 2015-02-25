@@ -1,0 +1,219 @@
+{
+    "form_data_definition_version": "1",
+    "form": {
+        "bind_type": "kartu_ibu",
+        "default_bind_path": "/model/instance/kartu_ibu/",
+        "fields": [
+            {
+                "name": "id",
+                "shouldLoadValue": true
+            },
+            {
+                "name": "district",
+                "bind": "/model/instance/kartu_ibu/B01010"
+            },
+            {
+                "name": "Province",
+                "bind": "/model/instance/kartu_ibu/B01008"
+            },
+            {
+                "name": "Kabupaten",
+                "bind": "/model/instance/kartu_ibu/B01009"
+            },
+            {
+                "name": "puskesmas",
+                "bind": "/model/instance/kartu_ibu/B01001"
+            },
+            {
+                "name": "subCenter",
+                "bind": "/model/instance/kartu_ibu/B01016"
+            },
+            {
+                "name": "RT/RW",
+                "bind": "/model/instance/kartu_ibu/B01012"
+            },
+            {
+                "name": "village",
+                "bind": "/model/instance/kartu_ibu/B01011"
+            },
+            {
+                "name": "householdAddress",
+                "bind": "/model/instance/kartu_ibu/B01007"
+            },
+            {
+                "name": "headOfHousehold",
+                "bind": "/model/instance/kartu_ibu/B01004"
+            },
+            {
+                "name": "ecNumber",
+                "bind": "/model/instance/kartu_ibu/B01002"
+            },
+            {
+                "name": "wifeName",
+                "bind": "/model/instance/kartu_ibu/B01003"
+            },
+            {
+                "name": "wifeAge",
+                "bind": "/model/instance/kartu_ibu/B01006"
+            },
+            {
+                "name": "womanDOB",
+                "bind": "/model/instance/kartu_ibu/B01005"
+            },
+            {
+                "name": "phoneNumber",
+                "bind": "/model/instance/kartu_ibu/B01021"
+            },
+            {
+                "name": "Pekerjaan",
+                "bind": "/model/instance/kartu_ibu/B01015"
+            },
+            {
+                "name": "pendidikan",
+                "bind": "/model/instance/kartu_ibu/B01013"
+            },
+            {
+                "name": "religion",
+		"bind": "/model/instance/kartu_ibu/B01014"
+            },
+            {
+                "name": "Asuransi",
+                "bind": "/model/instance/kartu_ibu/B01019"
+            },
+            {
+                "name": "Nama_Kader",
+                "bind": "/model/instance/kartu_ibu/B01017"
+            },
+            {
+                "name": "alamat",
+                "bind": "/model/instance/kartu_ibu/B01007"
+            },
+	    {
+                "name": "Nama_dukun",
+                "bind": "/model/instance/kartu_ibu/B01018"
+            },
+	    {
+                "name": "Asuransi_jiwa",
+                "bind": "/model/instance/kartu_ibu/B01019"
+            },
+            {
+                "name": "Tanggal_periksa",
+                "bind": "/model/instance/kartu_ibu/B01025"
+            },
+            {
+                "name": "EDD",
+                "bind": "/model/instance/kartu_ibu/B01028"
+            },
+            {
+                "name": "tanggal_hpht",
+                "bind": "/model/instance/kartu_ibu/B01027"
+            },
+            {
+                "name": "Golongan_darah",
+                "bind": "/model/instance/kartu_ibu/B01020"
+            },
+            {
+                "name": "Persalinan_sebelumnya",
+                "bind": "/model/instance/kartu_ibu/B01029"
+            },
+            {
+                "name": "BB",
+                "bind": "/model/instance/kartu_ibu/B01030"
+            },
+            {
+                "name": "TB",
+                "bind": "/model/instance/kartu_ibu/B01031"
+            },
+            {
+                "name": "Buku_KIA",
+                "bind": "/model/instance/kartu_ibu/B01032"
+            },
+            {
+                "name": "Riwayat_komplikasi",
+                "bind": "/model/instance/kartu_ibu/B01033"
+            },
+            {
+                "name": "Penyakit_kronis",
+                "bind": "/model/instance/kartu_ibu/B01034"
+            },
+            {
+                "name": "Alergi",
+                "bind": "/model/instance/kartu_ibu/B01035"
+            },
+            {
+                "name": "Rencana_persalinan",
+                "bind": "/model/instance/kartu_ibu/B01036"
+            },
+            {
+                "name": "Tempat_persalinan",
+                "bind": "/model/instance/kartu_ibu/B01037"
+            },
+            {
+                "name": "Rencana_pendamping",
+                "bind": "/model/instance/kartu_ibu/B01038"
+            },
+            {
+                "name": "Transportasi",
+                "bind": "/model/instance/kartu_ibu/B01039"
+            },
+            {
+                "name": "pendonor",
+                "bind": "/model/instance/kartu_ibu/B01040"
+            },
+            {
+                "name": "Kondisi_rumah",
+                "bind": "/model/instance/kartu_ibu/B01041"
+            },
+            {
+                "name": "persediaan_perlengkapan_persalinan",
+                "bind": "/model/instance/kartu_ibu/B01013"
+            },
+            {
+                "name": "educationalLevel",
+                "bind": "/model/instance/kartu_ibu/B01013"
+            },
+            {
+                "name": "numberOfPregnancies",
+                "bind": "/model/instance/kartu_ibu/B01022"
+            },
+            {
+                "name": "numberOfLiveBirths",
+                "bind": "/model/instance/kartu_ibu/B01023"
+            },
+            {
+                "name": "numberOfAbortions",
+                "bind": "/model/instance/kartu_ibu/B01024"
+            },
+            {
+                "name": "numberOfStillBirths",
+                "bind": "/model/instance/kartu_ibu/B01024"
+            },
+            {
+                "name": "numberOfLivingChildren",
+                "bind": "/model/instance/kartu_ibu/B01025"
+            },
+            {
+                "name": "isOutOfArea",
+                "value": "false"
+            },
+            {
+                "name": "isClosed",
+                "value": "false"
+            },
+            {
+                "name": "submissionDate",
+                "bind": "/model/instance/kartu_ibu/today"
+            },
+            {
+                "name": "registrationDate",
+                "bind": "/model/instance/kartu_ibu/today"
+            },
+
+            {
+                "name": "lmpDate",
+                "bind": "/model/instance/kartu_ibu/B01027"
+            }
+           
+        ]
+    }
+}

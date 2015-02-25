@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1423757344070_0" label="drishti" name="drishti">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-reporting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/opensrp-connector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-scheduler" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-form" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-mother-child" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/drishti-common" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1423757943307_1" label="Window Working Set" name="Aggregate for window 1423757943307"/>
+</workingSetManager>
